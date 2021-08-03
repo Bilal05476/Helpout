@@ -1,0 +1,17 @@
+.Footer_mainDiv {
+  background-color: rgba(0, 0, 0, 0.9) !important;
+  margin-bottom: 0% !important;
+  width: 100% !important;
+}
+.Footer_UL {
+  box-sizing: border-box !important;
+  word-wrap: break-word !important;
+}
+.Footer_UL li a {
+  color: white !important;
+}
+.Footer_para {
+  margin-bottom: 0% !important;
+  padding-bottom: 0.2%;
+  color: white;
+}

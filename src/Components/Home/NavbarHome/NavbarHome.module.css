@@ -1,0 +1,41 @@
+.NavbarHome {
+  background-color: #000000 !important;
+  box-shadow: 0 4px 25px 0 rgba(0, 0, 0, 0.25);
+  position: fixed;
+  top: 0;
+  width: 100% !important;
+  padding: 0px !important;
+  display: inline-block !important;
+  z-index: 10;
+}
+
+.NavbarHome_logo {
+  width: 229px !important;
+  height: 69px;
+  flex-grow: 0;
+  margin: 0 8px 6px !important;
+}
+.NavbarHome_HomeLink {
+  color: white !important;
+  font-family: Helvetica;
+  font-size: 18px !important;
+  font-weight: normal;
+  padding-right: 15px;
+}
+.NavbarHome_HomeLink:hover {
+  background-image: linear-gradient(to top, #ff32ba, #9bdced);
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-bottom: 2px solid transparent !important;
+  border-image: linear-gradient(60deg, #ff32ba, #2664b6);
+  border-image-slice: 1;
+}

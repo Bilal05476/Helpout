@@ -1,0 +1,18 @@
+.FreqQuestion_mainDiv {
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+  background-color: rgba(0, 0, 0, 0.9);
+  margin-bottom: -1% !important;
+}
+.FreqQuestion_mainDiv h3 {
+  padding-top: 10%;
+  font-size: 3rem !important;
+  color: white;
+  box-sizing: border-box;
+  word-wrap: break-word;
+}
+.FreqQuestion_SearchBox {
+  width: 50%;
+  margin: 0 auto !important;
+}

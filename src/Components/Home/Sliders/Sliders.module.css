@@ -1,0 +1,13 @@
+.SlidersDiv {
+  background-image: url("../../Images/BackgroundImage.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 150vh;
+  background-position-y: 20px;
+}
+@media only screen and (max-width: 1101px) {
+  .SlidersDiv {
+    min-height: 180% !important;
+  }
+}
